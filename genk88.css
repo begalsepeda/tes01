@@ -70,11 +70,11 @@
     }
 
     .page-header {
-        background: linear-gradient(to right, #cc0000, #800000);
+        background: linear-gradient(to right, #27ae60, #27ae60);
     }
 
     .button-orange {
-        background-image: linear-gradient(to right, #cc0000, #ffff00);
+        background-image: linear-gradient(to right, #27ae60, #27ae60);
     }
 
     .buttonlc2 {
