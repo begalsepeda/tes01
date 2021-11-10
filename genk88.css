@@ -110,7 +110,7 @@
 
         .pool-name {
             color: #ffffff !important;
-            background: linear-gradient(to right, #cc0000, #800000) !important;
+            background: linear-gradient(to right, #27ae6082, #27ae60) !important;
             width: 100% !important;
             font-size: 13px !important;
             font-weight: bold !important;
